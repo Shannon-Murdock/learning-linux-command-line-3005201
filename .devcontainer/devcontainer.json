@@ -5,4 +5,3 @@
   "postAttachCommand": "cp -f .bashrc ~/.bashrc && . ~/.bashrc && git pull --all"
 }
 
-echo "✅ .bashrc successfully loaded!"
